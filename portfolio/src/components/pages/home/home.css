@@ -1,0 +1,9 @@
+#home{
+    height: 100vh;  
+    /* background: url(../../../assets/botanical-cactus-close-up-decor-305821.jpg) no-repeat center center fixed;  */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-image: url(../../../assets/botanical-cactus-close-up-decor-305821.jpg);
+  }

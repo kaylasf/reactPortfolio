@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Burger",
+        "description": "A strategy game for car enthusiasts, to battle others to game money and upgrade car stats.",
+        "technologies": "MERN stack application, Firebase Auth, Javascript, Bootstrap and CSS.",
+        "github": "https://github.com/super-street-battle/super-street-battle",
+        "date": "July 2019",
+        "href": "https://damp-everglades-65372.herokuapp.com/"
+    },
+  
+    {
+        "name": "Burger",
+        "description": "A strategy game for car enthusiasts, to battle others to game money and upgrade car stats.",
+        "technologies": "MERN stack application, Firebase Auth, Javascript, Bootstrap and CSS.",
+        "github": "https://github.com/super-street-battle/super-street-battle",
+        "date": "July 2019",
+        "href": "https://kaylasf.github.io/Day-Scheduler/"
+    },  {
+        "name": "Burger",
+        "description": "A strategy game for car enthusiasts, to battle others to game money and upgrade car stats.",
+        "technologies": "MERN stack application, Firebase Auth, Javascript, Bootstrap and CSS.",
+        "github": "https://github.com/super-street-battle/super-street-battle",
+        "date": "July 2019",
+        "href": "https://kaylasf.github.io/Password-Generator/"
+    }
+]
