@@ -4,6 +4,7 @@ import work from "../projects/projects.json"
 import img1 from "../../../assets/imgs/burger.png"
 import img2 from "../../../assets/imgs/scheduler.png"
 import img3 from "../../../assets/imgs/pw.png"
+import img4 from "../../../assets/imgs/quiz.png"
 // import {BrowserRouter as Router, Route, Link} from "react-router-dom";
 
 
@@ -11,7 +12,7 @@ function Project() {
 
   const [portfolioState, setportfolioState] = useState({
     projects: work,
-    images: [img1, img2, img3]
+    images: [img1, img2, img3, img4]
     
 })
   return (
